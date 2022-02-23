@@ -2,7 +2,7 @@
 
 Collection of sexy React Hooks ready to install with NPM
 
-- [ ] useInput
+- [x] useInput
 - [ ] useTabs
 - [ ] useTitle
 - [ ] useClick
